@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/fortwars/fortwar_white"
+	 $envmap env_cubemap
+
+}

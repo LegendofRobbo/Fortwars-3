@@ -1,0 +1,136 @@
+
+
+
+materialPath: D:\Vidya\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading D:\Vidya\steamapps\common\GarrysMod\garrysmod\addons\darkland\maps\hammer\fw_mayan.vmf
+Can't find surfaceprop stone for material DE_TIDES/TIDES_FLOOR_STONE_2, using default
+Could not locate 'GameData' key in d:\vidya\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/fw_mayan/de_tides/blendgrassstonepath_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Vidya\steamapps\common\GarrysMod\garrysmod\addons\darkland\maps\hammer\fw_mayan.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/jungle*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/jungle*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (25654 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 129 texinfos to 71
+Reduced 13 texdatas to 13 (310 bytes to 310)
+Writing D:\Vidya\steamapps\common\GarrysMod\garrysmod\addons\darkland\maps\hammer\fw_mayan.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading d:\vidya\steamapps\common\garrysmod\garrysmod\addons\darkland\maps\hammer\fw_mayan.bsp
+reading d:\vidya\steamapps\common\garrysmod\garrysmod\addons\darkland\maps\hammer\fw_mayan.prt
+  79 portalclusters
+ 212 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 6191
+Average clusters visible: 78
+Building PAS...
+Average clusters audible: 79
+visdatasize:2216  compressed from 2528
+writing d:\vidya\steamapps\common\garrysmod\garrysmod\addons\darkland\maps\hammer\fw_mayan.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading d:\vidya\steamapps\common\garrysmod\garrysmod\addons\darkland\maps\hammer\fw_mayan.bsp
+410 faces
+235888 square feet [33967996.00 square inches]
+2 Displacements
+55552 Square Feet [7999488.00 Square Inches]
+410 patches before subdivision
+22840 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1515633, max 281
+transfer lists:  11.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(98570, 87183, 59469)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(10862, 8434, 4089)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1351, 916, 319)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(201, 120, 31)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(35, 18, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(7, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0055 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                 62/8192          744/98304    ( 0.8%) 
+brushsides             444/65536        3552/524288   ( 0.7%) 
+planes                 246/65536        4920/1310720  ( 0.4%) 
+vertexes               645/65536        7740/786432   ( 1.0%) 
+nodes                  215/65536        6880/2097152  ( 0.3%) 
+texinfos                71/12288        5112/884736   ( 0.6%) 
+texdata                 13/2048          416/65536    ( 0.6%) 
+dispinfos                2/0             352/0        ( 0.0%) 
+disp_verts             162/0            3240/0        ( 0.0%) 
+disp_tris              256/0             512/0        ( 0.0%) 
+disp_lmsamples      113280/0          113280/0        ( 0.0%) 
+faces                  410/65536       22960/3670016  ( 0.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              148/65536        8288/3670016  ( 0.2%) 
+leaves                 218/65536        6976/2097152  ( 0.3%) 
+leaffaces              490/65536         980/131072   ( 0.7%) 
+leafbrushes            220/65536         440/131072   ( 0.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             2530/512000      10120/2048000  ( 0.5%) 
+edges                 1517/256000       6068/1024000  ( 0.6%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             48/32768         480/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           648/65536        1296/131072   ( 1.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      517660/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        2216/16777216 ( 0.0%) 
+entdata               [variable]        3919/393216   ( 1.0%) 
+LDR ambient table      218/65536         872/262144   ( 0.3%) 
+HDR ambient table      218/65536         872/262144   ( 0.3%) 
+LDR leaf ambient      1192/65536       33376/1835008  ( 1.8%) 
+HDR leaf ambient       218/65536        6104/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/288      ( 0.3%) 
+pakfile               [variable]       87226/0        ( 0.0%) 
+physics               [variable]       25654/4194304  ( 0.6%) 
+physics terrain       [variable]         108/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1118
+Writing d:\vidya\steamapps\common\garrysmod\garrysmod\addons\darkland\maps\hammer\fw_mayan.bsp
+2 seconds elapsed
