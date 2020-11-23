@@ -1,0 +1,12 @@
+"fortwars"
+{
+	"base"		"sandbox"
+	"title"		"FortWars"
+	"maps"		"^fw_"
+	"menusystem"	"1"
+
+	"settings"
+	{
+		// TODO: put some settings here
+	}
+}
